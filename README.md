@@ -3,3 +3,4 @@ I am gonna showing to you how to create simple javascript xo game! this tic tac 
 
 # Preview
 Here i have live preview :
+https://acetadori.github.io/XO-Game/
